@@ -1,0 +1,32 @@
+_repo: Memoirs-of-the-Life-of-Sir-Walter-Scott-Volume-V--of-10-_24498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lockhart, J. G. (John Gibson)
+    aliases:
+    - Bull, John
+    - Morris, Peter
+    - Lockhart, John Gibson
+    birthdate: 1794
+    deathdate: 1854
+    gutenberg_agent_id: '7470'
+    url: http://www.gutenberg.org/2009/agents/7470
+    wikipedia: http://en.wikipedia.org/wiki/John_Gibson_Lockhart
+description: ''
+gutenberg_issued: '2008-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+title: Memoirs of the Life of Sir Walter Scott, Volume 5 (of 10)
+url: http://www.gutenberg.org/ebooks/24498
